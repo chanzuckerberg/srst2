@@ -12,7 +12,7 @@
 #	bowtie2	   http://bowtie-bio.sourceforge.net/bowtie2/index.shtml version 2.1.0 or greater
 #	SAMtools   http://samtools.sourceforge.net Version: 0.1.18 or greater (note optimal results are obtained with 0.1.18 rather than later versions)
 #	SciPy	http://www.scipy.org/install.html
-#
+# test
 # Git repository: https://github.com/katholt/srst2/
 # README: https://github.com/katholt/srst2/blob/master/README.md
 # Questions or feature requests: https://github.com/katholt/srst2/issues
